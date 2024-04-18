@@ -1,8 +1,7 @@
-# 1. Ensure you have node and npm installed
+### Ensure you have node and npm installed
 node -v
 npm -v
+1. npm inti -y
+2. npm i express socket.io
+3. npm i nodemon --save-dev
 
-# 2. npm inti -y
-# 3. npm i express socket.io
-# 4. npm i nodemon --save-dev
-# 5. prepare the app.js
